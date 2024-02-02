@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b3a036f.css",
+    "main.js": "/static/js/main.a569d5a8.js",
+    "static/js/787.ca5c967c.chunk.js": "/static/js/787.ca5c967c.chunk.js",
+    "static/media/meditate.svg": "/static/media/meditate.67aa67b3a881d398c477f75c72569c46.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.0b3a036f.css.map": "/static/css/main.0b3a036f.css.map",
+    "main.a569d5a8.js.map": "/static/js/main.a569d5a8.js.map",
+    "787.ca5c967c.chunk.js.map": "/static/js/787.ca5c967c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b3a036f.css",
+    "static/js/main.a569d5a8.js"
+  ]
+}
